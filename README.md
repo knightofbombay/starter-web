@@ -13,3 +13,6 @@ Sample Deployment. Adding description
 
 ## New Section
 Description
+
+## Copyright
+Copyright notice
