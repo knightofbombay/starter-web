@@ -9,5 +9,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Sample Deployment
-Adding description
+Sample Deployment. Adding description
+
+## New Section
+Description
